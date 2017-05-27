@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /
 Disallow: /assets/
 Disallow: /exports/
 Disallow: /.git/
